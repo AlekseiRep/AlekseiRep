@@ -7,3 +7,7 @@ You can also check out my portfolio here (projects outside of formal education a
 __My toolkit and skills:__
 - Python (pandas, seaborn, matplotlib, plotly), SQL (PostgreSQL), Tableau, MS (Excel, PowerPoint, Word), Jupyter Notebook;
 - Data cleaning and processing, exploratory data analysis, data visualization, creating presentations, building dashboards, product metrics, cohort analysis, unit economics, ad hoc analysis, window functions.
+
+__Мои контакты__
+Email	alioha.rpk1@gmail.com
+Telegarm	t.me/ALR198
