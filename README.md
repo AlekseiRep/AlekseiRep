@@ -1,4 +1,4 @@
-## Hi, I'm Alexey Repin.
+## Hi, I'm Alexei Repkin.
 I'm an aspiring data analytics professional.
 
 I’m currently actively seeking job opportunities. You can view my detailed resume via this link.
