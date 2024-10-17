@@ -1,8 +1,8 @@
 ## Hi, I'm Alexei Repkin.
 I'm an aspiring data analytics professional.
 
-I’m currently actively seeking job opportunities. You can view my detailed resume via this [link](https://hh.ru/resume/8e56ed08ff0da50a350039ed1f466a3674454f).
-You can also check out my portfolio here (projects outside of formal education and work).
+I’m currently actively seeking job opportunities. You can view my detailed resume via this [link](https://hh.ru/resume/8e56ed08ff0da50a350039ed1f466a3674454f).  
+You can explore my independent projects outside of work and studies [here]().
 
 __My toolkit and skills:__
 Python (pandas, seaborn, matplotlib, plotly), SQL (PostgreSQL), Tableau, MS (Excel, PowerPoint, Word), Jupyter Notebook;
