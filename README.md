@@ -10,5 +10,5 @@ __My toolkit and skills:__
 
 __Мои контакты:__  
 
-Email	alioha.rpk1@gmail.com  
-Telegarm	t.me/ALR198
+Email:	alioha.rpk1@gmail.com  
+Telegarm:	t.me/ALR198
