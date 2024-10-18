@@ -1,7 +1,7 @@
 ## Hi, I'm Alexei Repkin.
 I'm an aspiring data analytics professional.
 
-I’m currently actively seeking job opportunities. You can view my detailed resume via this [link](https://hh.ru/resume/8e56ed08ff0da50a350039ed1f466a3674454f).  
+I’m currently looking for job opportunities. You can view my detailed resume via this [link](https://hh.ru/resume/8e56ed08ff0da50a350039ed1f466a3674454f).  
 You can explore my independent projects outside of work and studies [here](https://nbviewer.org/github/AlekseiRep/-pet_projects/blob/main/pet_pr_hh.ipynb).
 
 __My toolkit and skills:__
